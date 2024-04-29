@@ -15,12 +15,21 @@ Develop practical skills in building and training a CNN model to differentiate b
 # Dependencies
 
 Colab
+
+Python
+
 TensorFlow Keras models 
+
 TensorFlow Keras layers
+
 Matplotlib
+
 Seaborn
+
 Scikit-Learn
+
 Pandas
+
 Numpy
 
 # Key takeaways
